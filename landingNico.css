@@ -1,8 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    position: relative;
+    min-height: 120vh;
+}
 #sectionPadre{
     background-image:url(./assets/img/bg\ tomografia.jpeg);
-    height: 100vh;
+    height: 120vh;
+    padding: 0px;
 }
 #inpsubmit{
     display: flex;
     align-self: self-end;
+}
+#sectionF{
+    
+    height: 20%;
+    width: 100%;
+    margin-top: auto;
 }
