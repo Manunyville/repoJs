@@ -1,0 +1,8 @@
+#sectionPadre{
+    background-image:url(./assets/img/bg\ tomografia.jpeg);
+    height: 100vh;
+}
+#inpsubmit{
+    display: flex;
+    align-self: self-end;
+}
